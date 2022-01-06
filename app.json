@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vwse",
+  "description": "vwse",
   "keywords": [
-    "vmess or vles"
+    "vwse"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/Mbcjd/Zvdgb",
+  "repository": "https://github.com/Mbcjd/Zvdgb",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
